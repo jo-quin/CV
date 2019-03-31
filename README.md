@@ -1,4 +1,4 @@
-## Your Name
+## Jose Quinones
 
 A sentence about who and what you are:
 I am a self-taught software developer who thinks technology and science can change the world in a positive way. 
