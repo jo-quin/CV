@@ -13,10 +13,10 @@ I am looking for a job where I can keep learning new and exciting ways to develo
 
 (I will relate my skills to specific apps I built. I will add the apps to github so this is also a todo list.)
 
-creativity - stars voyage - learn ruby threads and parallel programming
-time management - htmail - working full time, meetings clients and deadlines!
-adaptability - health tracker - google apis
-team-player - experience gained thru makers and group projects
+* creativity - stars voyage - learn ruby threads and parallel programming
+* time management - htmail - working full time, meetings clients and deadlines!
+* adaptability - health tracker - google apis
+* team-player - experience gained thru makers and group projects
 
 #### This Skill
 
