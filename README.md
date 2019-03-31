@@ -1,8 +1,22 @@
 ## Your Name
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+A sentence about who and what you are:
+I am a self-taught software developer who thinks technology and science can change the world in a positive way. 
+
+Then a sentence about what you've achieved:
+After learning all I could about programming and Python from any online course provider, blog or YouTube video I could find I can now write code to help other people and businesses. Joined Makers to stop being a loner programmer and get out there to meet other developers and prepare for my first job in the tech industry.
+
+And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment:
+I am looking for a job where I can keep learning new and exciting ways to develop code that can change the world!
 
 ## Skills
+
+(I will relate my skills to specific apps I built. I will add the apps to github so this is also a todo list.)
+
+creativity - stars voyage - learn ruby threads and parallel programming
+time management - htmail - working full time, meetings clients and deadlines!
+adaptability - health tracker - google apis
+team-player - experience gained thru makers and group projects
 
 #### This Skill
 
@@ -23,7 +37,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2019 to end_date)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
