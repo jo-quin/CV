@@ -24,8 +24,8 @@ I am looking for a job where I can keep learning new and exciting ways to develo
 |----------|---------------|----------------|---|
 | battle_ship | | |
 | start_project | | |
-| stargazer| | |
-
+| stargazer | | |
+| Termiro | | |
 
 ## Skills
 
