@@ -1,4 +1,13 @@
-## Jose Quinones
+<h1 align="center">
+  Jose Quinones
+</h1>
+<p align="center"
+  <a href="#">Link 1</a> |
+  <a href="#">Link 2</a> |
+  <a href="#">Link 3</a>
+  <br><br>
+</p>
+
 
 A sentence about who and what you are:
 I am a self-taught software developer who thinks technology and science can change the world in a positive way. 
@@ -9,6 +18,15 @@ After learning all I could about programming and Python from any online course p
 And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment:
 I am looking for a job where I can keep learning new and exciting ways to develop code that can change the world!
 
+## Projects
+
+| Project  | Description   | Technologies   | Testing |
+|----------|---------------|----------------|---|
+| battle_ship | | |
+| start_project | | |
+| stargazer| | |
+
+
 ## Skills
 
 (I will relate my skills to specific apps I built. I will add the apps to github so this is also a todo list.)
@@ -17,6 +35,18 @@ I am looking for a job where I can keep learning new and exciting ways to develo
 * time management - htmail - working full time, meetings clients and deadlines!
 * adaptability - health tracker - google apis
 * team-player - experience gained thru makers and group projects
+
+EXAMPLE
+
+Experience in the following industry best practices:
+
+Agile: Acebook - Stand Ups, Sprints, Pair programming, Mobbing (see Wiki).
+
+Test- Driven Development: Echo-Tech-Test - Feature tests, Unit Tests, Mocks, Stubs.
+
+Pair Programming: - I enjoy pairing and have received positive feedback.
+
+Automated Testing & Deployment - Acebook - CICD using Travis and Heroku, respectively.
 
 #### This Skill
 
@@ -61,4 +91,9 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 **Company Name** (start_date to end_date)    
 *Your job title*  
 **Company Name** (start_date to end_date)   
-*Your job title*  
+*Your job title*
+
+## Interests
+
+climbing and music. teaching both of them.
+
