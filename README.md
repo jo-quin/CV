@@ -8,15 +8,12 @@
   <br><br>
 </p>
 
-
-A sentence about who and what you are:
 I am a self-taught software developer who thinks technology and science can change the world in a positive way. 
 
-Then a sentence about what you've achieved:
-After learning all I could about programming and Python from any online course provider, blog or YouTube video I could find I can now write code to help other people and businesses. Joined Makers to stop being a loner programmer and get out there to meet other developers and prepare for my first job in the tech industry.
+Before joining Makers I thought of myself as a self-taught programmer than can develop code to solve people’s problems. 
+In Makers I learned to solve the same problems in a more efficient way, developing code that is tested, easy to change and easy to understand. While studying at Makers, I worked in many team projects where I learned a lot from my colleagues and realised how the final product is of higher quality when working with other great developers. 
 
-And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment:
-I am looking for a job where I can keep learning new and exciting ways to develop code that can change the world!
+Currently looking for my first tech job, a role where I can keep learning new and exciting ways to solve challenging problems.
 
 ## Projects
 
