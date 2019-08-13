@@ -17,12 +17,12 @@ Currently looking for my first tech job, a role where I can keep learning new an
 
 ## Projects
 
-| Project  | Description   | Technologies   | Testing |
-|----------|---------------|----------------|---|
-| battle_ship | | |
-| start_project | | |
-| stargazer | | |
-| Termiro | | |
+| Project  | Description   | Technologies   |
+|----------|---------------|----------------|
+| [battle_ship](https://github.com/jo-quin/battle_ship) | My main motivation to create this CLI replica of the BattleShip game was to learn how to connect different users on different networks to play against each other online. The app is hosted on a Raspberry Pi computer connected to the internet where users can connect to via Telnet. | Built with Ruby using Rspec as the main testing framework with custom tests to measure the computer player's efficiency. Continuous integration with Travis CI. |
+| [start_project](https://github.com/jo-quin/start_project) | While studying at Makers I found myself constantly typing the same commands in the terminal over and over again just to set up a working directory. Until I had the idea of automating this process :) | Built with Ruby. |
+| [StarGazer](https://github.com/jo-quin/stargazer) | For Maker's final engineering project the team choose to create an AR iPhone app which helps the user to identify the stars an planets in the sky. We used technologies completely new to all of us to create an MVP in less than two weeks. | Built with Swift using Xcode IDE. |
+| [Termiro](https://github.com/jo-quin/termiro) | While working on a few personal CLI projects where I added graphics and messages to enhance the user experience, I found a convenient way to create and display 8-bit looking graphics. This code is now available as a Ruby Gem which makes it easy to use in future apps and easy to share with the community. Termiro is an open source project, therefore, everyone is welcome to use it and contribute. | Built with Ruby. |
 
 ## Skills
 
