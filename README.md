@@ -2,16 +2,17 @@
   Jose Quinones
 </h1>
 <p align="center"
-  <a href="#">Link 1</a> |
+  <a href="#projects">Projects</a> |
   <a href="#">Link 2</a> |
   <a href="#">Link 3</a>
   <br><br>
 </p>
 
-I am a self-taught software developer who thinks technology and science can change the world in a positive way. 
+I am a self-taught software developer who thinks technology and science can change the world in a positive way.
 
-Before joining Makers I thought of myself as a self-taught programmer than can develop code to solve people’s problems. 
-In Makers I learned to solve the same problems in a more efficient way, developing code that is tested, easy to change and easy to understand. While studying at Makers, I worked in many team projects where I learned a lot from my colleagues and realised how the final product is of higher quality when working with other great developers. 
+I started coding a few years ago learning all I could about programming and Python from any online course provider, blog or YouTube video I could find. Then an opportunity to help a local personal training company came up and I developed an app to help them automate updates emails for their clients. The app was a success and it took me to consider Software Development as my next career, a career where I could be challenged and proud of my work. 
+
+I joined Makers to help me get into the tech industry. I learned to solve problems more efficiently, developing code that is tested, easy to change and easy to understand. I worked in many team projects where I learned a lot from my colleagues and realised how the final product is of higher quality when working with other great developers. 
 
 Currently looking for my first tech job, a role where I can keep learning new and exciting ways to solve challenging problems.
 
