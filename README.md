@@ -1,10 +1,10 @@
 <h1 align="center">
   Jose Quinones
 </h1>
-<p align="center"
+<p align="center">
   <a href="#projects">Projects</a> |
-  <a href="#">Link 2</a> |
-  <a href="#">Link 3</a>
+  <a href="#skills">Skills</a> |
+  <a href="#experience">Experience</a>
   <br><br>
 </p>
 
