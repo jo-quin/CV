@@ -30,39 +30,30 @@ Currently looking for my first tech job, a role where I can keep learning new an
 
 (I will relate my skills to specific apps I built. I will add the apps to github so this is also a todo list.)
 
-* creativity - stars voyage - learn ruby threads and parallel programming
-* time management - htmail - working full time, meetings clients and deadlines!
-* adaptability - health tracker - google apis
-* team-player - experience gained thru makers and group projects
-
-EXAMPLE
-
-Experience in the following industry best practices:
-
-Agile: Acebook - Stand Ups, Sprints, Pair programming, Mobbing (see Wiki).
-
-Test- Driven Development: Echo-Tech-Test - Feature tests, Unit Tests, Mocks, Stubs.
-
-Pair Programming: - I enjoy pairing and have received positive feedback.
-
-Automated Testing & Deployment - Acebook - CICD using Travis and Heroku, respectively.
-
-#### This Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- Experience
-- Achievements
-- Evidence
-
-#### Another Skill
-
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
 - I achieved A during my work at B (job, or otherwise)
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+* creativity - stars voyage - learn ruby threads and parallel programming
+* time management - htmail - working full time, meetings clients and deadlines!
+* adaptability - health tracker - google apis
+* team-player - experience gained thru makers and group projects
+
+
+#### Creativity
+
+
+#### Time management
+
+
+#### Adaptability
+
+
+#### Team-player
+
 
 ## Education
 
