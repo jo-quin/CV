@@ -67,14 +67,12 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 #### Makers Academy (April 2019 to June 2019)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+16-week software engineering bootcamp with a focus on:
+- Self-directed learning
+- Test-driven development
+- Pair programming
+- Object-oriented programming
+- Agile software development
 
 ## Experience
 
