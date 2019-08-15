@@ -65,7 +65,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (April 2019 to end_date)
+#### Makers Academy (April 2019 to June 2019)
 
 - Curious and passionate about code. [PROVIDE EVIDENCE]
 - Fast, independent learner [PROVIDE EVIDENCE]
@@ -76,20 +76,11 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
-
-- Subject, any specialisms
-- Grade
-- Other cool stuff
-
-#### Any other qualifications
-
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*
+For the last 7 years, I have been working for international retail companies like Chanel and Luxottica in Stock Control and Distribution positions. 
+These roles required a high level of planning and organization to achieve long and short term goals. Communication with my colleagues and management team has always been really important on my job to move forward the different tasks I was assigned to as part of a team or as an individual. 
+Reducing stock losses to a minimum, train staff to carry on with my duties while I was away and organize a worldwide eCommerce distribution were some of the projects that I was in charge of or participated in. 
 
 ## Interests
 
