@@ -28,32 +28,22 @@ Currently looking for my first tech job, a role where I can keep learning new an
 
 ## Skills
 
-(I will relate my skills to specific apps I built. I will add the apps to github so this is also a todo list.)
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
-
-* creativity - stars voyage - learn ruby threads and parallel programming
-* time management - htmail - working full time, meetings clients and deadlines!
-* adaptability - health tracker - google apis
-* team-player - experience gained thru makers and group projects
-
-
 #### Creativity
 
+I consider myself a creative individual. I have been playing musical instruments for many years now, writing songs and playing in bands. When I discovered software development I instantly realised how amazing tool coding is. I could create anything I wanted from scratch with just a computer. From terminal retro games to apps that display information about my topics of interest when I switch on the computer, the possibilities were endless. Once I started to work on real-life problems I discovered that creativity also comes in place when effectively solving challenging problems from clients. I believe creativity and problem-solving is the best part of being a software developer. 
 
 #### Time management
 
+Time management has become a really important tool in my professional and private life. Schedule breaks while I am working using the Pomodoro technic and allocate time to do sport every week is part of my daily routine. I use kanban boards to organize my tasks and goals which helps me to visualize my progress.  Accurate time management allowed me to study fulltime at Makers Academy while having full and part-time jobs.
 
 #### Adaptability
 
+When building my first project for a client I had to adapt to the customer's preexisting workflow and work with the tools they were already using mainly Gmail and Google Sheets.  That was a big challenge as I had to be sure that my app was able to extract data from their files without changing the way they used to work. 
+This project made me realised how important is to be flexible and open-minded while working on new projects.   
 
 #### Team-player
 
+While working in retail I was always working within teams to achieve stock control and distribution goals. Communication between the different departments and stores was crucial communicating daily via email or phone. At Makers Academy I participated in many different team projects where we used an agile development approach that involved daily stands ups and retrospectives, pair-programming and Mob programming.
 
 ## Education
 
