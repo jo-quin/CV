@@ -61,9 +61,3 @@ While working in retail I was always working within teams to achieve stock contr
 For the last 7 years, I have been working for international retail companies like Chanel and Luxottica in Stock Control and Distribution positions. 
 These roles required a high level of planning and organization to achieve long and short term goals. Communication with my colleagues and management team has always been really important on my job to move forward the different tasks I was assigned to as part of a team or as an individual. 
 Reducing stock losses to a minimum, train staff to carry on with my duties while I was away and organize a worldwide eCommerce distribution were some of the projects that I was in charge of or participated in. 
-
-## Interests
-
-climbing and music. teaching both of them.
-https://www.youtube.com/watch?v=08-L_LNvWtQ
-
