@@ -30,11 +30,11 @@ Currently looking for my first tech job, a role where I can keep learning new an
 
 #### Creativity
 
-I consider myself a creative individual. I have been playing musical instruments for many years now, writing songs and playing in bands. When I discovered software development I instantly realised how amazing tool coding is. I could create anything I wanted from scratch with just a computer. From terminal retro games to apps that display information about my topics of interest when I switch on the computer, the possibilities were endless. Once I started to work on real-life problems I discovered that creativity also comes in place when effectively solving challenging problems from clients. I believe creativity and problem-solving is the best part of being a software developer. 
+I consider myself a creative individual. I have been playing musical instruments for many years now, writing songs and playing in bands. When I discovered software development I instantly realised how amazing tool coding is. I could create anything I wanted from scratch with just a computer. From terminal retro games to apps that display information about my topics of interest, the possibilities were endless. I believe creativity and problem-solving is the best part of being a software developer. 
 
 #### Time management
 
-Time management has become a really important tool in my professional and private life. Schedule breaks while I am working using the Pomodoro technic and allocate time to do sport every week is part of my daily routine. I use kanban boards to organize my tasks and goals which helps me to visualize my progress.  Accurate time management allowed me to study fulltime at Makers Academy while having full and part-time jobs.
+Time management has become a really important tool in my professional and private life. It allowed me to study fulltime at Makers Academy while having a part-time job. Schedule breaks while I am working using the Pomodoro technic and allocate time to do sport every week is part of my daily routine. I use kanban boards to organize my tasks and goals which helps me to visualize my progress.
 
 #### Adaptability
 
@@ -43,7 +43,7 @@ This project made me realised how important is to be flexible and open-minded wh
 
 #### Team-player
 
-While working in retail I was always working within teams to achieve stock control and distribution goals. Communication between the different departments and stores was crucial communicating daily via email or phone. At Makers Academy I participated in many different team projects where we used an agile development approach that involved daily stands ups and retrospectives, pair-programming and Mob programming.
+While working in retail I was always working within teams to achieve stock control and distribution goals. Communication between the different departments and stores was crucial communicating daily via email or phone. At Makers Academy I participated in many different team projects where we used an agile development approach that involved daily stands ups and retrospectives, pair-programming and Mob programming. This approach allowed every member of the team to know how the project was progressing effectively towards our set goals and to share and solve with the rest of the team any issues as soon as they appeared.
 
 ## Education
 
