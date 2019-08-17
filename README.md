@@ -9,7 +9,7 @@
   <br><br>
 </p>
 
-I am a self-taught software developer who thinks technology and science can change the world in a positive way.
+I am a self-taught software developer who thinks technology and science can positively change the world.
 
 I started coding a few years ago learning all I could about programming and Python from any online course provider, blog or YouTube video I could find. Then an opportunity to help a local personal training company came up and I developed an app to help them automate updates emails for their clients. The app was a success and it took me to consider Software Development as my next career, a career where I could be challenged and proud of my work. 
 
@@ -24,7 +24,7 @@ Currently looking for my first tech job, a role where I can keep learning new an
 | [battle_ship](https://github.com/jo-quin/battle_ship) | My main motivation to create this CLI replica of the BattleShip game was to learn how to connect different users on different networks to play against each other online. The app is hosted on a Raspberry Pi computer connected to the internet where users can connect to via Telnet. | Built with Ruby using Rspec as the main testing framework with custom tests to measure the computer player's efficiency. Continuous integration with Travis CI. |
 | [start_project](https://github.com/jo-quin/start_project) | While studying at Makers I found myself constantly typing the same commands in the terminal over and over again just to set up a working directory. Until I had the idea of automating this process :) | Built with Ruby. |
 | [StarGazer](https://github.com/jo-quin/stargazer) | For Maker's final engineering project the team choose to create an AR iPhone app which helps the user to identify the stars an planets in the sky. We used technologies completely new to all of us to create an MVP in less than two weeks. | Built with Swift using Xcode IDE. |
-| [Termiro](https://github.com/jo-quin/termiro) | While working on a few personal CLI projects where I added graphics and messages to enhance the user experience, I found a convenient way to create and display 8-bit looking graphics. This code is now available as a Ruby Gem which makes it easy to use in future apps and easy to share with the community. Termiro is an open source project, therefore, everyone is welcome to use it and contribute. | Built with Ruby. |
+| [Termiro](https://github.com/jo-quin/termiro) | While working on a few personal CLI projects where I added graphics and messages to enhance the user experience, I found a convenient way to create and display 8-bit looking graphics. This code is now available as a Ruby Gem which makes it easy to use in future apps and easy to share with the community. Termiro is an open-source project, therefore, everyone is welcome to use it and contribute. | Built with Ruby. |
 
 ## Skills
 
@@ -49,7 +49,7 @@ While working in retail I was always working within teams to achieve stock contr
 
 #### Makers Academy (April 2019 to June 2019)
 
-16-week software engineering bootcamp with a focus on:
+16-week software engineering Bootcamp with a focus on:
 - Self-directed learning
 - Test-driven development
 - Pair programming
