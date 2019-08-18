@@ -49,7 +49,7 @@ While working in retail I was always working within teams to achieve stock contr
 
 #### Makers Academy (April 2019 to June 2019)
 
-16-week software engineering Bootcamp with a focus on:
+16-week software engineering bootcamp with a focus on:
 - Self-directed learning
 - Test-driven development
 - Pair programming
