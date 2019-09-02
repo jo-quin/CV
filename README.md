@@ -34,7 +34,7 @@ I consider myself a creative individual. I have been playing musical instruments
 
 #### Time management
 
-Time management has become a really important tool in my professional and private life. It allowed me to study fulltime at Makers Academy while having a part-time job. Schedule breaks while I am working using the Pomodoro technic and allocate time to do sport every week is part of my daily routine. I use kanban boards to organize my tasks and goals which helps me to visualize my progress.
+Time management has become a really important tool in my professional and private life. It allowed me to study fulltime at Makers Academy while having a part-time job. Schedule breaks while I am working using the Pomodoro technique and allocate time to do sport every week is part of my daily routine. I use kanban boards to organize my tasks and goals which helps me to visualize my progress.
 
 #### Adaptability
 
